@@ -1,23 +1,13 @@
-h1 {
-  display: inline;
-  background-color: red;
-}
-
-h2 {
-  display: inline;
-  background-color: brown;
-}
-
-p {
+/* p {
   background-color: orange;
-  display: block;
+} */
+
+.box {
+  background-color: orange;
 }
 
-a {
-  background-color: green;
-  display: block;
-}
-
-button {
-  display: block;
+.header {
+  background-color: darkgreen;
+  color: white;
+  text-align: center;
 }
